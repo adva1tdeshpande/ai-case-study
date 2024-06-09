@@ -1,6 +1,6 @@
 
 # Revolutionizing Conversational AI with Rasa
-![Tux, the Linux mascot](/assets/images/tux.png)
+![](Rasa.png)
 
 ## Overview and Origin
 
