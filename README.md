@@ -1,6 +1,6 @@
 
 # Revolutionizing Conversational AI with Rasa
-![](Rasa.png)
+![Rasa](Rasa.png)
 
 ## Overview and Origin
 
@@ -37,3 +37,8 @@
 * **Benefits:** Offering specialized solutions would allow Rasa to address the unique needs and challenges of different industries, potentially increasing market penetration and revenue opportunities. Additionally, it would demonstrate Rasa's commitment to providing comprehensive AI solutions that deliver tangible value to customers.
 * **Technologies:** The expansion into specialized solutions could leverage technologies such as domain-specific language models, industry-specific data sets, and domain-specific knowledge graphs. These technologies would enhance the accuracy and relevance of AI assistants in specific domains, leading to improved user experiences and higher adoption rates.
 * **Appropriateness:** By leveraging domain-specific technologies, Rasa can ensure that its solutions are tailored to the unique requirements and nuances of different industries. This targeted approach would enable Rasa to stay ahead of competitors and maintain its position as a leader in the rapidly evolving conversational AI landscape.
+
+>References:
+1. Rasa Funding and compnay information [Crunchbase Rasa](https://www.crunchbase.com/organization/rasa).
+2. Rasa $30M in Series C funding [Techfunding news](https://techfundingnews.com/getting-to-the-point-rasas-30m-in-series-c-funding-to-advance-conversational-ai-innovation/) 
+3. Content and formatting [Chat GPT](https://chatgpt.com)
